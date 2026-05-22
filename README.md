@@ -34,26 +34,9 @@ The Lambda function reads logs from CloudWatch and stores them into an S3 bucket
 | architecture.png | Project architecture diagram |
 | screenshots/ | Project screenshots |
 
----
 
-## Screenshots
 
-### Lambda Function
-![Lambda](screenshots/1-lambda-function.png)
 
-### CloudWatch Log Group
-![CloudWatch](screenshots/2-cloudwatch-log-group.png)
-
-### S3 Bucket
-![S3](screenshots/3-s3-bucket.png)
-
-### IAM Role Permissions
-![IAM](screenshots/4-iam-role.png)
-
-### Exported Logs in S3
-![Logs](screenshots/5-exported-logs-in-s3.png)
-
----
 
 ## Lambda Function Features
 - Reads CloudWatch logs
