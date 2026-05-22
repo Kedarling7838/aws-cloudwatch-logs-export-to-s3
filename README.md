@@ -13,13 +13,7 @@ The Lambda function reads logs from CloudWatch and stores them into an S3 bucket
 - Amazon S3
 - AWS IAM Role
 
----
 
-## Architecture
-
-![Architecture](architecture.png)
-
----
 
 ## Project Workflow
 
